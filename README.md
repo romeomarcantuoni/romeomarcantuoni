@@ -1,16 +1,23 @@
-## Hi there 👋
+Welcome to my GitHub profile!  
+I am a university lecturer and researcher specializing in **Political Science**.
 
-<!--
-**romeomarcantuoni/romeomarcantuoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🏫 About Me
 
-Here are some ideas to get you started:
+- 🏛️ Lecturer at [Your University]
+- 🎓 Researcher focused on political parties and the politics of emotions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+
+- To be filled in later
+
+## 🛠 Methods & Tools
+
+- To be filled in later
+- 
+## 👨‍💻 GitHub Projects
+
+Here you’ll find:
+- Teaching materials & syllabi
+- My CV
+  
+---
