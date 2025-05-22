@@ -17,6 +17,6 @@ I am a university lecturer and researcher specializing in **Political Science**.
 
 - Teaching materials & syllabi
 - My CV
-- LaTeX code for chicago style citations of Japanese sources in English (in progress) 
+- Workflow and LaTeX code for chicago style citations of Japanese sources in English (in progress) 
   
 ---
